@@ -7,7 +7,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CnrFairs.DataAccessLayer.Abstract
+namespace CnrFairs.BussinessLayer.Abstract
 {
     public abstract class ManagerBase<T> : IDataAccess<T> where T : class
     {

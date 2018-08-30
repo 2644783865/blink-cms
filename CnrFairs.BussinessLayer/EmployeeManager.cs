@@ -5,10 +5,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CnrFairs.BussinessLayer.Abstract;
 
 namespace CnrFairs.BussinessLayer
 {
-    public class EmployeeManager
+    public class EmployeeManager : ManagerBase<Employee>
     {
         private Repository<Employee> repo = new Repository<Employee>();
 
@@ -16,5 +17,7 @@ namespace CnrFairs.BussinessLayer
         {
             return repo.List();
         }
+
+
     }
 }

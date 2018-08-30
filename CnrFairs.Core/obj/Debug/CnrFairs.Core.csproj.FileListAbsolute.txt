@@ -1,5 +1,10 @@
-C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Core\bin\Debug\CnrFairs.Core.dll
-C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Core\bin\Debug\CnrFairs.Core.pdb
-C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Core\obj\Debug\CnrFairs.Core.csproj.CoreCompileInputs.cache
-C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Core\obj\Debug\CnrFairs.Core.dll
-C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Core\obj\Debug\CnrFairs.Core.pdb
+C:/Users/berkay.ernalbant.CNR/Desktop/CnrFairs_CMS/CnrFairs.Core/bin/Debug/CnrFairs.Core.dll
+C:/Users/berkay.ernalbant.CNR/Desktop/CnrFairs_CMS/CnrFairs.Core/bin/Debug/CnrFairs.Core.pdb
+C:/Users/berkay.ernalbant.CNR/Desktop/CnrFairs_CMS/CnrFairs.Core/obj/Debug/CnrFairs.Core.csproj.CoreCompileInputs.cache
+C:/Users/berkay.ernalbant.CNR/Desktop/CnrFairs_CMS/CnrFairs.Core/obj/Debug/CnrFairs.Core.dll
+C:/Users/berkay.ernalbant.CNR/Desktop/CnrFairs_CMS/CnrFairs.Core/obj/Debug/CnrFairs.Core.pdb
+/Users/berkay/Documents/GitHub/blink-cms/CnrFairs.Core/bin/Debug/CnrFairs.Core.dll
+/Users/berkay/Documents/GitHub/blink-cms/CnrFairs.Core/bin/Debug/CnrFairs.Core.pdb
+/Users/berkay/Documents/GitHub/blink-cms/CnrFairs.Core/obj/Debug/CnrFairs.Core.csproj.CoreCompileInputs.cache
+/Users/berkay/Documents/GitHub/blink-cms/CnrFairs.Core/obj/Debug/CnrFairs.Core.dll
+/Users/berkay/Documents/GitHub/blink-cms/CnrFairs.Core/obj/Debug/CnrFairs.Core.pdb
