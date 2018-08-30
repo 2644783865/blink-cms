@@ -1,0 +1,6 @@
+C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Common\bin\Debug\CnrFairs.Common.dll
+C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Common\bin\Debug\CnrFairs.Common.pdb
+C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Common\obj\Debug\CnrFairs.Common.csproj.CoreCompileInputs.cache
+C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Common\obj\Debug\CnrFairs.Common.dll
+C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Common\obj\Debug\CnrFairs.Common.pdb
+C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Common\obj\Debug\CnrFairs.Common.csprojResolveAssemblyReference.cache

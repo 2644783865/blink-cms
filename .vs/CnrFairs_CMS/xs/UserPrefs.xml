@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5FBAFA6B-7438-440A-B6E3-F5F5EB44C0F3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CnrFairs_CMS/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="CnrFairs_CMS/Controllers/HomeController.cs" Line="20" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CnrFairs__CMS PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

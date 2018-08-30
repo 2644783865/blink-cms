@@ -1,0 +1,6 @@
+C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Entities\bin\Debug\CnrFairs.Entities.dll
+C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Entities\bin\Debug\CnrFairs.Entities.pdb
+C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Entities\obj\Debug\CnrFairs.Entities.csprojResolveAssemblyReference.cache
+C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Entities\obj\Debug\CnrFairs.Entities.csproj.CoreCompileInputs.cache
+C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Entities\obj\Debug\CnrFairs.Entities.dll
+C:\Users\berkay.ernalbant.CNR\Desktop\CnrFairs_CMS\CnrFairs.Entities\obj\Debug\CnrFairs.Entities.pdb
